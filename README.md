@@ -1,6 +1,6 @@
 # Laravel Types
 
-> [NOTE]
+> [!NOTE]
 > This package is currently under active development. Community contributions are welcome—please open an issue or submit a pull request if you have suggestions or improvements.
 
 Laravel Types is a lightweight JavaScript utility that enhances the developer experience by providing precise type definitions for common Laravel objects. It is especially useful for TypeScript users, Inertia integration, or working with Laravel API responses.
