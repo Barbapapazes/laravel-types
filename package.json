@@ -2,7 +2,7 @@
   "name": "laravel-types",
   "type": "module",
   "version": "0.0.2",
-  "packageManager": "pnpm@10.9.0",
+  "packageManager": "pnpm@10.11.0",
   "description": "",
   "author": "Estéban Soubiran <esteban@soubiran.dev>",
   "license": "MIT",
