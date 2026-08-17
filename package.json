@@ -2,7 +2,7 @@
   "name": "laravel-types",
   "type": "module",
   "version": "0.0.2",
-  "packageManager": "pnpm@10.9.0",
+  "packageManager": "pnpm@11.21.0",
   "description": "",
   "author": "Estéban Soubiran <esteban@soubiran.dev>",
   "license": "MIT",
@@ -29,11 +29,11 @@
     "release": "npm run lint && npm run build && changelogen --release && npm publish && git push --follow-tags"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.12.0",
+    "@antfu/eslint-config": "^9.3.0",
     "@tsconfig/recommended": "^1.0.8",
     "changelogen": "^0.6.1",
-    "eslint": "^9.24.0",
+    "eslint": "^10.8.1",
     "tsdown": "^0.9.5",
-    "typescript": "^5.8.3"
+    "typescript": "^7.0.2"
   }
 }
